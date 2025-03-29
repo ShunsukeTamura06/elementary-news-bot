@@ -1,0 +1,39 @@
+# Configuration files with sensitive info
+config.json
+.env
+
+# Log files
+app.log
+*.log
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Archives directory
+archives/
+
+# Playwright browser data
+.playwright-browsers/
+
+# Testing
+.coverage
+htmlcov/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
