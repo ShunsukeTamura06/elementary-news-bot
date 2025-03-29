@@ -1,0 +1,9 @@
+{
+    "openai_api_key": "YOUR_OPENAI_API_KEY_HERE",
+    "news_api_key": "YOUR_NEWS_API_KEY_HERE",
+    "note_email": "YOUR_NOTE_EMAIL_HERE",
+    "note_password": "YOUR_NOTE_PASSWORD_HERE",
+    "post_time": "08:00",
+    "model": "gpt-4o",
+    "log_level": "INFO"
+}
